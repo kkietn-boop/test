@@ -1,0 +1,19 @@
+{
+    "iconUrl": "https://www.miruro.to/favicon.ico",
+    "fileHash": "sha256-f58a754d2c6369ba4bdc663da5db107fd78abdb9c9580c9a77d0c73efc071f1f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/user/repo",
+    "fileSize": 60361,
+    "status": 1,
+    "language": "en",
+    "authors": [
+        "Antigravity"
+    ],
+    "tvTypes": [
+        "Anime"
+    ],
+    "version": 1,
+    "internalName": "MiruroProvider",
+    "url": "https://raw.githubusercontent.com/user/repo/builds/MiruroProvider.cs3",
+    "name": "MiruroProvider"
+}
